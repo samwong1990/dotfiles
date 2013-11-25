@@ -1,0 +1,1026 @@
+cd ~/Dropbox
+ls
+cd Computing
+ls
+cd Sandbox/Project\ Euler
+ls
+cd python
+ls
+which python
+python -v
+python -version
+python --version
+echo $PATH
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+mkdir ~/bin
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+mate
+vim ~/.zshrc
+reload
+echo $PATH
+subl -help
+gotosandbox
+ls
+cd Project\ Euler
+ls
+cd python
+subl ./
+ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+brew 
+brew update
+bew search python
+brew search python
+brew install python3
+su Kaho
+cd ~/
+cd ..
+ls
+su kaho
+ping 192.168.0.1
+cd git
+ls
+mkdir Wonga
+cd Wonga
+ls
+git clone git2@git.wonga.com:restapi.git
+cd bin/ls
+cd ~/Dropbox/git/Sites
+ls
+cd Everline
+mv apply1 apply.html
+cd tmp
+cd /tmp
+ls
+mkdir clean
+cd clean
+touch foo.c
+touch foo.o
+touch foo.s
+touch foo
+touch bar.c
+touch bar.o
+touch bar.s
+touch bar
+touch dontremove.s
+ls
+ls|grep '.c'
+unalias ls
+ls
+ls | grep '.c'
+ls | grep '.c' | sed '.' ''
+ls | grep '.c' | sed '\.' ''
+ls | grep '.c' | sed -i 's/.//'
+ls | grep '.c' | sed 's/.//'
+ls | grep '.c' | sed 's/\.//'
+ls | grep '.c' | sed 's/\.*//'
+ls | grep '.c' | sed 's/\..*$//'
+ls | grep '.c' | sed 's/\..*$//' | xargs -I 'name' rm -i 'name'.s 'name'.o 'name'
+ls
+ls | grep '.c' | sed 's/\..*$//' | xargs -I 'name' echo rm 'name'.s 'name'.o 'name'
+clr
+clear
+ls
+ls | grep '.c'
+ls | grep '.c' | sed 's/\..*$//' 
+echo "i love Kaho' | sed 's/Kaho/Sam/'
+echo "i love Kaho'" | sed 's/Kaho/Sam/'
+ls | grep '.c' | sed 's/\..*$//' | xargs -I 'name' echo rm 'name'.s 'name'.o 'name'
+ps aux | grep -i sh
+kill 1635
+ps aux | grep -i sh
+sudo ps aux 
+sudo ps aux |grep share
+sudo ps aux |grep screen
+sudo ps aux |grep con
+cd Dropbox/Computing/oldies
+ls
+cd Concurrency
+ls
+cat coursework1.lts
+sshamazon
+ls
+cd ~/.ssh
+;s
+ls
+ssh-keygen
+ls
+cat id_rsa.pub
+sshamazon
+ls
+cd ../
+ls
+cd Downloads
+chmod a-rw USWestSamWong.pem
+ls -a USWestSamWong.pem
+chmod a+r USWestSamWong.pem
+ls -a USWestSamWong.pem
+chmod a-r USWestSamWong.pem
+chmod u-r USWestSamWong.pem
+chmod u+r USWestSamWong.pem
+ls -a USWestSamWong.pem
+ssh -i USWestSamWong.pem ubuntu@ec2-54-214-78-196.us-west-2.compute.amazonaws.com
+cat ~/.ssh/id_rsa.pub
+ssh -i USWestSamWong.pem ubuntu@ec2-54-214-78-196.us-west-2.compute.amazonaws.com
+cat ~/.zshrc
+echo test | xclipboard
+shfs sw2309@cathedral.ma.ic.ac.uk:/home/ma/s/sw2309 ~/MountPoints/Math'\
+alias mountMacbook='mkdir -p ~/MountPoints/Macbook; sshfs samwong@192.168.0.10:/ ~/MountPoints/Macbook'\
+#alias mountMacbook='sudo mkdir /Volumes/all; ping -noq -c 3 -t 2 192.168.0.10 > /dev/null; if [ $? -eq 0 ]; then; echo "Ping succeed, mounting .10"; sudo mount_nfs -o vers=4,proto=tcp,port=2049 192.168.0.10:/ /Volumes/all; else; echo "Ping on .10 failed, mounting .5"; sudo mount_nfs -o vers=4,proto=tcp,port=2049 192.168.0.5:/ /Volumes/all; fi;'\
+\
+#------------------------------------------\
+# PATH settings\
+#------------------------------------------\
+# Homebrew:\
+PATH=/usr/local/share/python:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH\
+\
+# Rails\
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting\
+\
+# Custom bins\
+PATH=$PATH:$HOME/bin\
+\
+# Android
+mate ~/.zshrc
+open ~/.zshrc
+ssh -i USWestSamWong.pem ubuntu@ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+ls /usr/
+ssh -i USWestSamWong.pem ubuntu@ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+cd Downloads
+ssh -i USWestSamWong.pem ubuntu@ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+ping ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+ping http://ec2-50-112-196-48.us-west-2.compute.amazonaws.com/
+ping ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+ping 10.226.153.195
+ping ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+ssh -i USWestSamWong.pem ubuntu@ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+ping ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+ssh -i USWestSamWong.pem ubuntu@ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+ping ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+ssh -i USWestSamWong.pem ubuntu@ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+ping ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+ssh -i USWestSamWong.pem ubuntu@ec2-50-112-196-48.us-west-2.compute.amazonaws.com
+ping  ec2-54-245-25-220.us-west-2.compute.amazonaws.com
+ssh -i USWestSamWong.pem ubuntu@ ec2-54-245-25-220.us-west-2.compute.amazonaws.com
+ssh -i USWestSamWong.pem ubuntu@ec2-54-245-25-220.us-west-2.compute.amazonaws.com
+ssh ubuntu@ec2-54-212-229-84.us-west-2.compute.amazonaws.com
+ssh -i kahoServer.pem ubuntu@ec2-54-212-229-84.us-west-2.compute.amazonaws.com
+chmod a-rw kahoServer.pem
+chmod u+r kahoServer.pem
+ssh -i kahoServer.pem ubuntu@ec2-54-212-229-84.us-west-2.compute.amazonaws.com
+ping ec2-54-245-25-220.us-west-2.compute.amazonaws.com
+cd /Applications/Skype.app/Contents/MacOS
+sudo ./Skype 
+irb
+cd ~/Downloads
+ls
+cd TestEnv
+ruby debugw3wp.rb
+sudo ./Skype 
+ruby debugw3wp.rb
+pwd
+ruby debugw3wp.rb
+pwd
+ruby debugw3wp.rb
+irb
+ruby debugw3wp.rb -d
+ruby debugw3wp.rb -dv
+ruby debugw3wp.rb -d -v
+ruby debugw3wp.rb -dv
+awk '{print $1}'
+man rm
+rm -ir /
+[ $[ $RANDOM % 6 ] == 0 ] && echo "You're dead" || echo *Click*
+bash
+find ./ -type f
+find ./ -type f | xargs -I filename echo filename
+exit
+sqlite3
+ls
+cd Dropbox/SIXT\ DISPUTE
+ls
+cd ../
+ls
+cd git
+ls
+cd Sites
+ls
+git pull https://github.com/samwong1990/ProjectEuler.git
+git clone https://github.com/samwong1990/ProjectEuler.git
+ls
+cd ProjectEuler
+ls
+cd python
+ls
+subl Q13.py
+subl ./
+python Q12.py
+time python Q12.py
+python -v
+python --version
+python3 -v
+python3.3
+which python
+which python3.3
+python3.3 
+python3.3 Q13.py
+;2A
+python3.3 Q13.py
+python3.3
+python3.3 Q13.py
+python3.3
+python3.3 Q13.py
+python3.3
+python3.3 Q13.py
+pip
+pip -v
+pip install py.test
+man pip
+pip --help
+pip install help
+pip install --help
+pip install -U pytest
+py.test --version
+cd /usr/local
+ls
+ls -al
+cd ../
+ls
+cd local
+ls -la
+cd git
+ls
+cd ../
+ls
+whoami
+groups samwong
+groups kaho
+cd ~/
+ls
+cd bin
+ls
+cd ../
+ls
+easy_install -U py.test
+ls
+cd /usr/local
+ls
+pip --help
+pip show
+pip list
+pip install -U py.test
+pip install -U pytest
+ls
+chown a+w -R lib
+chown -R a+w lib
+chown -r a+w lib
+chmod -R a+w lib
+sudo chmod -R a+w lib
+pip install -U pytest
+cd ../
+chmod a+rw -R local
+chmod -R a+rw local
+sudo chmod -R a+rw local
+pip install -U pytest
+py.test
+echo $PATH
+cd local
+ls
+cd bin
+ls
+pip install virtualen
+pip install virtualenv
+pip install -U virtualenv
+virtualenv ENV
+echo $PATH
+echo ENV/bin/activate
+cat ENV/bin/activate
+echo $PATH
+source ENV/bin/activate
+echo $PATH
+virtualenv -v
+virtualenv --version
+which virtualenv
+which virtualenv-3.3
+virtualenv-3.3 --version
+which python
+python --version
+cd ../../
+sudo chmod -R a-w local
+ls
+cd ENV
+ls
+cd ../
+mkdir PYTHON_ENV
+mv PYTHON_ENV python_virtualenv
+virtualenv python_virtualenv --no-site-packages
+pwd
+virtualenv python_virtualenv/ --no-site-packages
+ls -al
+cd python_virtualenv
+ls
+cd ../
+rm -rf python_virtualenv
+mkdir -p python_virtualenv/env1
+ls python_virtualenv
+ls
+virtualenv python_virtualenv/env1 --no-site-packages
+sudo virtualenv python_virtualenv/env1 --no-site-packages
+sudo pip install -U virtualenv
+cd python_virtualenv
+ls
+cd env1
+ls
+ls /usr/local/Cellar/python3/3.3.2/Frameworks/Python.framework/Versions/3.3/
+cd ../
+source ENV/bin/activate
+easy_install list
+easy_install -list
+easy_install --list
+easy_install --help
+which pip
+pip install -U pytest
+which pytest
+which python
+which pip
+ls
+rm -rf python_virtualenv
+sudo rm -rf python_virtualenv
+ls
+cd ENV
+ls
+cd bin
+ls
+cd ../lib
+ls
+cd ../
+ls
+cd bin
+ls
+activate 
+source ./activate
+source ./ENV/bin/activate
+which pip
+which py.test
+ls
+py.test --version
+which virtualenv
+virtualenv --version
+pip install -U virtualenv
+which virtualenv 
+sudo pip -U virtualenv
+sudo pip install -U virtualenv
+py.test --version
+cd ~/Dropbox/git
+ls
+cd Sites
+ls
+cd ProjectEuler
+ls
+cd python
+ls
+py.test
+source ~/ENV/bin/activate
+py.test
+py.test Q13.py
+py.test Q13.py|less
+py.test --fixtures
+py.test --fixtures|less
+py.test --help
+py.test Q13.py|less
+python
+py.test Q13.py|less
+pip ipython
+pip search ipython
+pip install -U ipytho
+pip install -U ipython
+py.test Q13.py|less
+source ./activate
+ipython3
+source ~/ENV/bin/activate
+ipython3 -m py.test Q13.py|less
+ipython3 -m py.test Q13.py
+ipython3 py.test Q13.py
+ipython3 -m py.test Q13.py
+ipython3
+pip install -U ipdb
+python Q13.py
+ipython3 -m py.test Q13.py
+py.test Q13.py
+history | grep test
+history -n 99| grep test
+unalias history
+history 
+history -n 99
+history -n 99|grep test
+pytest Q13.py
+py.test Q13.py
+python Q13.py
+ipython3
+python Q13.py
+ipython3
+python Q13.py
+ipython3
+python Q13.py
+source ENV/bin/activate
+ipython3
+ls
+python Q13.py
+py.test Q13.py
+source ~/ENV/bin/activate
+ipython3
+python
+py.test Q13.py
+python Q13.py
+cd /tmp
+ls
+python btree.py
+python2
+python btree.py
+whoami
+su kahosato
+cat /etc/passwd
+cat /etc/passwd|grep kaho
+cat /etc/passwd|grep -i kaho
+cat /etc/passwd|grep -i sato
+su nobody
+sudo su nobody
+whoami
+bash
+sudo su nobody
+exit
+users
+dscl . -read /Users/
+dscl . -ls /User
+dscl . -ls ~/../
+cd ..
+ls
+sudo su kaho
+ls
+pwd
+cd Dropbox/git
+ls
+cd Sites
+ls
+cd ProjectEuler/
+ls
+git submodule add git@github.com:samwong1990/pyfunc.git
+cat ~/.ssh/id_rsa.pub
+git submodule add git@github.com:samwong1990/pyfunc.git
+ls
+rm -rf pyfunc
+cat sumOfA
+ls
+cat sample
+ls
+git submodule add git@github.com:samwong1990/pyfunc.git
+ls
+cd Dropbox/
+ls
+cd git
+ls
+cd Sites
+ls
+git clone git@github.com:samwong1990/pyfunc.git
+cd pyfunc
+ls
+cd Dropbox/git
+ls
+cd pyf
+cd Sites
+ls
+cd pyfunc
+ls
+touch test
+rm test
+touch testNewSSHKey
+git add testNewSSHKey
+git push
+git commit -m 'test new ssh key'
+git push
+cd Dropbox/git/Sites/ProjectEuler
+ls
+cd pyfunc
+ls
+git submodule update
+ls
+git status
+cd ../
+git status
+git add python/*
+git status
+git commit -m 'had fun with py.test, also started to style stuff properly'
+git push
+ls
+cd .ssh
+ls
+cat id_rsa
+cat id_rsa.pub
+git show origin
+git show origin remote
+git remote show origin
+git remote set-url origin git@github.com:samwong1990/ProjectEuler.git
+git status
+git push
+cd pyfunc
+ls
+git submodule update
+history | grep submodule
+subl ~/.zshrc
+history
+reload
+history
+history|grep submodule
+ls
+cd ..
+rm -rf pyfunc
+git status
+ls
+git submodule add git@github.com:samwong1990/pyfunc.git pyfunc
+git stuatus
+status
+git status
+ls
+rm -rf pyfunc
+git submodule add git@github.com:samwong1990/pyfunc.git master
+ls
+cd master
+ls
+git submodule help
+git submodule add --help
+git status
+rm -rf master
+git submodule add -b master git@github.com:samwong1990/pyfunc.git pyfunc
+git status
+git commit -m 'using git submodule to manage my library functions
+git commit -m 'using git submodule to manage my library functions'
+git push
+cd pyfunc
+ls
+git rm testNewSSHKey
+git status
+git commit -m 'if I change something in the submodule, can i push directly to the submodule repo?'
+git config --global user.email "sam.wong.1990@gmail.com"
+git push
+git pull
+git status
+git gui
+git log
+git reset --hard
+git log
+git checkout 92ab1c9d224e643d7a626199ba75775cac42e221
+git commit -m 'submodule stuff should not be here...'
+git revert --help
+git checkout HEAD
+git status
+git revert 92ab1c9d224e643d7a626199ba75775cac42e221
+git reset --hard
+git git status
+git reset --hard
+git log
+git reset --hard origin/master
+git log
+git revert bcf0857255fe19ef06265bab332f9ee2618ca4b4
+git status
+ls
+cd ../
+ls
+rm -rf pyfunc
+ls
+git status
+git log
+ls
+cd ../
+ls
+rm -rf master
+git log
+git reset --hard origin/master
+git log
+git submodule add git@github.com:samwong1990/pyfunc.git lib/pyfunc
+git submodule init
+git submodule update
+git status
+git add *
+git status
+git commit -m 'use submodule to keep library in a separate repo'
+cd lib/pyfunc
+ls
+git status
+git log
+git revert bcf0857255fe19ef06265bab332f9ee2618ca4b4
+git status
+;s
+ls
+git status
+git log
+git push
+ls
+ls pyfunc
+cd ../
+ls
+cd pyfunc
+ls
+git log
+ls
+git clean -xfd
+ls
+git rm testNewSSHKey
+git status
+git commit -m 'trying to commit changes in submodules'
+git push
+cd ../
+ls
+cd ../
+ls
+git status
+git submodule update
+git status
+git log
+git push
+git status
+ls
+git rm sumOfA sample notSumOfA
+git status
+ls
+mv lib python/
+ls
+cd python
+ls
+cd ../
+git status
+mv python/lib ./
+git status
+git mv lib python./
+git mv lib python/
+git status
+ls
+git mv lib python/
+cd lib
+ls
+cd ../
+ls
+git status
+git mv -r lib python/
+git mv -v lib python/
+ls
+git -v
+git --version
+brew
+which git
+git --version
+brew install git
+cd /usr/local
+ls
+brew doctor
+which git
+cd /Volumes/Git\ 1.8.4.2\ Snow\ Leopard\ Intel\ Universal
+ls
+./setup\ git\ PATH\ for\ non-terminal\ programs.sh
+jwhich git
+which git
+/usr/local/git/bin/git --version
+subl ~/.zshrc
+echo $PATH
+reload
+which git
+git --version
+ls
+cd Dropbox/git/Sites/ProjectEuler
+ls
+cd python
+ls
+git status
+ls
+cd ../
+ls
+git mv lib python/
+mv lib python/
+git status
+git add python/lib/
+git status
+git submodule update
+git status
+ls
+rm -rf python/lib
+ls
+git submodule --help
+;ls
+ls
+git status
+git commit -m 'cleanup folder'
+git push
+git status
+ls
+cd lib
+ls
+cd pyfunc
+ls
+cd ../../
+ls
+subl ./
+git submodule init
+rm -rf lib
+git submodule init
+ls
+git status
+git reset --hard
+ls
+mv lib python
+ls
+git reset --hard
+mv lib python/
+git reset --hard
+git clean -xfd
+ls
+mv lib python/
+ls
+git status
+cd python
+ls
+cd lib
+ls
+cd pyfunc
+ls
+git status
+cd ../../
+ls
+cd ..
+git submodule init
+git reset --hard
+git --version
+git reset --hard
+ls
+git submodule deinit lib/pyfunc
+ls
+ls lib
+cd pyfunc
+ls
+cd lib/pyfunc
+ls
+cd ../../
+ls
+mv lib python/
+history
+history -n 99
+alias history='history'
+history -n 99
+history -n 99|grep submod
+ls
+git submodule add git@github.com:samwong1990/pyfunc.git python/lib/pyfunc
+cd python/lib/pyfunc
+ls
+cd ../
+rm -rf pyfunc
+cd ../../
+git submodule add git@github.com:samwong1990/pyfunc.git python/lib/pyfunc
+git submodule init
+git status
+git commit -m 'moved submodule into python folder'
+git status
+git push
+cd python
+ls
+cd lib
+ls
+cd pyfunc
+ls
+cd ../../../
+git submodule deinit lib/pyfunc
+git submodule deinit python/lib/pyfunc
+ls python/lib
+ls python/lib/pyfunc
+rm -rf python/lib/pyfunc
+ls
+git status
+git submodule add git@github.com:samwong1990/functionalpy.git python/lib/functionalpy
+ls python/lib/functionalpy
+ls
+git submodule init
+git submodule update
+git status
+git commit -m 'renamed repo'
+git push
+subl ./
+ls python/lib
+ls
+cat .gitmodules
+git status
+git log
+git submodule uninit python/lib/pyfunc
+git submodule uninit python/lib/pyfunc/
+git submodule deinit python/lib/pyfunc/
+rm -rf python/lib/pyfunc
+ls
+rm -rf lib
+ls
+git submodule init
+ls
+git add .gitmodules
+ls
+git status
+git commit -m 'cleanup old submodules'
+git submodule init
+cd lib
+ls
+cd python/lib
+ls
+cd ../../
+git submodule
+cd .git
+ls
+cd modules
+ls
+cd ../../
+ls
+git reset --hard origin/master
+ls
+git add .gitmodules
+subl .git/config
+ls
+git rm --cached lib
+git rm --cached -r lib
+git rm --cached -r python/lib/pyfunc
+rm -rf .git/modules/master .git/modules/pyfunc .git/modules/lib
+rm -rf .git/modules/python/lib/pyfunc
+git status
+git commit -m 'cleanup old modules'
+git status
+ls
+rm -rf lib
+rm -rf python/lib/pyfunc
+git status
+git clean -xfd
+git status
+git push
+git status
+ls
+cd python
+ls
+cd lib
+ls
+cd ../../
+ls
+cd ls
+ls
+cd ../
+ls
+cd ~/
+ls
+cd ENV
+ls
+cd bin
+ls
+source ./activate
+zsh ~/.zshrc
+subl ~/.zshrc
+reload
+activateVirtualEnv
+ipython3
+cd python
+python --version
+reload
+activevi
+activateVirtualEnv
+python --version
+python Q3.py
+ipython3
+python Q3.py
+cd ~/Dropbox
+ls
+cd git
+ls
+cd Sites/ProjectEuler/python
+ls
+ipython3
+python Q3.py
+prime_sequence_up_to = lambda n: takewhile(lambda p: p <= n, prime_sequence())
+ipython3
+python Q3.py
+python Q4.py
+python Q3.py
+python Q4.py
+python Q5.py
+python Q3.py
+python Q5.py
+ipython3
+python Q5.py
+python Q4.py
+python Q5.py
+python Q6.py
+python Q7.py
+python Q8.py
+python Q9.py
+python Q10.py
+python Q11.py
+python Q11.py|less
+python Q11.py
+python Q12.py
+python Q13.py
+python Q12.py
+ipython3
+ls
+cd lib/maths
+ls
+ipython3
+cd ../../
+ipython3
+python Q12.py
+time python Q12.py
+ls
+cd ~/Downloads/NZMATH-1.2.0
+ls
+cd nzmath
+ls
+ipython3
+cd ../
+ipython3
+: 1385318253:0;cdls
+: 1385318259:0;ipython3
+: 1385318271:0;ps aux |grep py
+: 1385318362:0;ipython3
+: 1385318697:0;cd lib
+: 1385318698:0;ls
+: 1385318699:0;cd sympy
+: 1385318699:0;ls
+: 1385318701:0;ipython3
+: 1385318778:0;cd ../../
+: 1385318778:0;ls
+: 1385318779:0;ipython3
+: 1385318863:0;python Q12.py
+: 1385318934:0;cd Dropbox/git/Sites/ProjectEuler/python
+: 1385318940:0;activateVirtualEnv
+: 1385318941:0;ipython3
+: 1385319007:0;python Q12.py
+: 1385319726:0;python Q13.py
+: 1385320025:0;python Q12.py
+: 1385320722:0;python Q13.py
+: 1385320723:0;python Q12.py
+: 1385334998:0;import unittest
+: 1385334998:0;from itertools import *
+: 1385334998:0;from functools import *
+: 1385334998:0;import math
+: 1385334998:0;from lib.maths.primes import *
+: 1385334998:0;from lib.maths.factoring import *
+: 1385334998:0;from lib.functionalpy.functional import *
+: 1385335000:0;ipython3
+: 1385335786:0;python Q12.py
+: 1385335989:0;time python Q12.py
+: 1385336134:0;python Q12.py
+: 1385336386:0;time python Q12.py
+: 1385336497:0;time python Q13.py
+: 1385336597:0;py.test Q13.py
+: 1385336609:0;time python Q13.py
+: 1385336622:0;py.test Q13.py
+: 1385336731:0;git status
+: 1385336758:0;git commit -a -m 'Rewrite all python solutions using proper convention, and functional approach'
+: 1385336760:0;git push
+: 1385405203:0;cd Dropbox
+: 1385405203:0;ls
+: 1385405204:0;cd git
+: 1385405204:0;ls
+: 1385405215:0;git clone git@github.com:samwong1990/dotfiles.git
+: 1385411582:0;ls
+: 1385411584:0;cd ../
+: 1385411584:0;ls
+: 1385411589:0;ls .*
+: 1385411593:0;ls -a .*
+: 1385411594:0;ls
+: 1385411621:0;cp .zshrc ~/Dropbox/git/dotfiles
+: 1385411623:0;ls
+: 1385411626:0;cd ~/
+: 1385411627:0;ls
+: 1385411684:0;ln -f -s ~/.zshrc ~/Dropbox/git/dotfiles/.zshrc
+: 1385411685:0;ls
+: 1385411702:0;ln -f -s ~/Dropbox/git/dotfiles/.zshrc ~/.zshrc
+: 1385411704:0;ls
+: 1385411707:0;ls ~/
+: 1385411714:0;cd Dropbox
+: 1385411714:0;ls
+: 1385411726:0;cp .zshrc git/dotfiles/
+: 1385411735:0;rm git/dotfiles/.zshrc
+: 1385411739:0;cp .zshrc git/dotfiles/
+: 1385411787:0;cd ~/
+: 1385411790:0;ls -a .*
+: 1385411798:0;ls -a |grep .*
+: 1385411801:0;ls -a
+: 1385411811:0;cat .gitconfig
+: 1385411836:0;ls .cups
+: 1385411842:0;cat .cups/lpoptions
+: 1385411868:0;cd .ssh
+: 1385411869:0;ls
+: 1385411871:0;cd ../
+: 1385411871:0;ls
+: 1385411878:0;cd .ipython
+: 1385411878:0;ls
+: 1385411881:0;cd profile_default
+: 1385411881:0;ls
+: 1385411884:0;cd ../../
+: 1385411884:0;ls
+: 1385411919:0;cd Dropbox
+: 1385411919:0;ls
+: 1385411923:0;cd git/dotfiles
+: 1385411924:0;git status
+: 1385411928:0;git add .zshrc Preferences.sublime-settings
+: 1385411935:0;git commit -m 'added some dot files'
+: 1385411943:0;history | grep ln
+: 1385411951:0;subl .zshrc
+: 1385411992:0;mv ~/.history ./
