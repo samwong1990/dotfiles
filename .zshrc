@@ -164,7 +164,6 @@ extract () {
 # Sam's own stuff to follow
 # Aliases
 #------------------------------------------
-source ~/.zshrc_private
 
 alias vi='vim'
 alias ls='ls -ltrah'
@@ -250,3 +249,19 @@ PATH=/usr/local/git/bin:$PATH
 
 # Android
 tePATH=$PATH:$ANDROID_HOME/platform-tools
+
+#------------------------------------------
+# Load private settings
+#------------------------------------------
+source ~/Dropbox/git/dotfiles/.zshrc_private
+
+#------------------------------------------
+# Getting dot files in place
+#------------------------------------------
+setUpDotFiles () {
+
+  ln -s ~/Dropbox/git/dotfiles/.zshrc ~/.zshrc
+  ln -s ~/Dropbox/git/dotfiles/.zshrc_private ~/.zshrc_private
+  ln -s ~/Dropbox/git/dotfiles/Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Preferences.sublime-settings
+  
+}
