@@ -1024,3 +1024,281 @@ ipython3
 : 1385411943:0;history | grep ln
 : 1385411951:0;subl .zshrc
 : 1385411992:0;mv ~/.history ./
+: 1385413021:0;cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
+: 1385413021:0;ls
+: 1385413049:0;cat Preferences.sublime-settings
+: 1385418048:0;cd ~/
+: 1385418050:0;cd ENV
+: 1385418051:0;ls
+: 1385418454:0;activateVirtualEnv 
+: 1385418458:0;ipython -v
+: 1385418464:0;ipython3  --v
+: 1385418470:0;ipython3 --version
+: 1385418724:0;ls
+: 1385418725:0;cd bin
+: 1385418726:0;ls
+: 1385418728:0;pwd
+: 1385419269:0;cd /tmp
+: 1385419279:0;git clone git@github.com:stacktoheap/SublimeREPL2.git
+: 1385419286:0;cd SublimeREPL2
+: 1385419294:0;grep -r -i "virtualenv" ./
+: 1385419391:0;cd ~/ENV/
+: 1385419391:0;ls
+: 1385419413:0;cd bin
+: 1385419413:0;ls
+: 1385419581:0;cd ~/Library//Application\ Support/Sublime\ Text\ 2/Packages/SublimeREPL/config/Python
+: 1385419581:0;ls
+: 1385419585:0;activateVirtualEnv
+: 1385419591:0;python --help
+: 1385419604:0;python ipy_repl.py
+: 1385419629:0;cd /tmp
+: 1385419629:0;ls
+: 1385419635:0;sublime ipy_repl.py
+: 1385419639:0;subl ipy_repl.py
+: 1385419647:0;python ipy_repl.py
+: 1385419693:0;ipython3 -u ipy_repl.py
+: 1385419700:0;ipython3 ipy_repl.py
+: 1385419779:0;pip search pyzmq
+: 1385419787:0;pip install pyzmq
+: 1385419858:0;pip search pyzmq
+: 1385419861:0;ipython3 ipy_repl.py
+: 1385419886:0;pip install ipython3
+: 1385419900:0;pip install ipython
+: 1385419908:0;pip install --upgrade ipython
+: 1385419913:0;ipython --version
+: 1385419918:0;ipython3 --version
+: 1385419982:0;pip search pyzmq
+: 1385419991:0;pip uninstall pyzmq
+: 1385420004:0;pip search pyzmq
+: 1385420068:0;easy_install ~/Downloads/pyzmq-14.0.1-py3.3-macosx-10.6-intel.egg
+: 1385420147:0;cd ENV/bin
+: 1385420147:0;ls
+: 1385420151:0;pwd
+: 1385420199:0;cd /tmp/SublimeREPL2/config/Python
+: 1385420199:0;ls
+: 1385420202:0;ipython
+: 1385420228:0;which python
+: 1385420235:0;/usr/bin/python --version
+: 1385420341:0;cd ~/
+: 1385420341:0;ls
+: 1385420381:0;virtualenv python276
+: 1385420429:0;gcc
+: 1385420442:0;ls
+: 1385420445:0;cd python276
+: 1385420445:0;ls
+: 1385420460:0;cd ..
+: 1385420460:0;ls
+: 1385420469:0;sudo virtualenv python276
+: 1385420482:0;ls
+: 1385420484:0;cd python276
+: 1385420485:0;ls
+: 1385420492:0;source bin/activate
+: 1385420500:0;python -V
+: 1385420569:0;cd ..
+: 1385420571:0;rm -rf python276
+: 1385420582:0;sudo rm -rf python276
+: 1385420584:0;ls
+: 1385420605:0;virtualenv -p /usr/bin/pythonw2.7 python27
+: 1385421138:0;ls
+: 1385421144:0;cd python27
+: 1385421145:0;ls
+: 1385421148:0;cd bin
+: 1385421148:0;ls
+: 1385421153:0;source activate
+: 1385421159:0;python --v
+: 1385421161:0;python -V
+: 1385421166:0;pip install ipython
+: 1385494844:0;vimtutor
+: 1385494898:0;which vimtutor
+: 1385494914:0;vimtutor
+: 1385502078:0;ls
+: 1385502082:0;cd python27
+: 1385502082:0;ls
+: 1385502083:0;cd bin
+: 1385502094:0;source activate
+: 1385502101:0;python
+: 1385502110:0;ls
+: 1385502204:0;cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/SublimeREPL/config/Python
+: 1385502204:0;ls
+: 1385502208:0;subl ./
+: 1385677089:0;ssh ks3512@shell1.doc.ic.ac.uk
+: 1385721035:0;py.test Q14
+: 1385845594:0;source activate
+: 1385845601:0;cd ~/Dropbox
+: 1385845601:0;ls
+: 1385845619:0;cd git
+: 1385845619:0;ls
+: 1385845622:0;cd Sites
+: 1385845623:0;ls
+: 1385845624:0;cd ProjectEuler
+: 1385845625:0;ls
+: 1385845626:0;cd python
+: 1385845627:0;ls
+: 1385845630:0;python Q14.py
+: 1385908365:0;1
+: 1385908403:0;ping 192.168.1.1
+: 1385908406:0;1
+: 1385908515:0;11
+: 1385912685:0;cd /tmp
+: 1385912685:0;ls
+: 1385912687:0;vim test.py
+: 1385912693:0;activateVirtualEnv
+: 1385912697:0;python test.py
+: 1385912729:0;cd /tmp
+: 1385912732:0;vim test.c
+: 1385912740:0;gcc -O0 -o test test.c
+: 1385912745:0;./test
+: 1385913068:0;time python test.py
+: 1385917932:0;python Q14.py
+: 1385917947:0;time python Q14.py
+: 1385918079:0;git status
+: 1385918090:0;cd ../
+: 1385918090:0;ls
+: 1385918101:0;subl ./
+: 1385918120:0;git status
+: 1385918125:0;git add .gitignore
+: 1385918143:0;git add python/lib/maths
+: 1385918145:0;git status
+: 1385918153:0;cd python
+: 1385918154:0;cd lib
+: 1385918155:0;cd sympy
+: 1385918156:0;ls
+: 1385918161:0;cd ../
+: 1385918163:0;ls
+: 1385918208:0;cat Q7.pyc
+: 1385918221:0;git Q7.pyc
+: 1385918223:0;git rm Q7.pyc
+: 1385918224:0;git status
+: 1385918227:0;git add Q14.py
+: 1385918231:0;git submodule update
+: 1385918473:0;git submodule init
+: 1385918477:0;git submodule list
+: 1385918481:0;git submodule status
+: 1385918489:0;git add lib/sympy
+: 1385918507:0;git status
+: 1385918546:0;git update-index --assume-unchanged lib/sympy
+: 1385918548:0;git status
+: 1385918571:0;git reset lib/sympy
+: 1385918573:0;git status
+: 1385918577:0;git add Q13.py
+: 1385918584:0;git status
+: 1385918646:0;open ./
+: 1385918730:0;git status
+: 1385918838:0;git reset lib/maths
+: 1385918841:0;git status
+: 1385918849:0;git add lib/maths
+: 1385918850:0;git status
+: 1385918888:0;git reset lib/maths
+: 1385918891:0;git status
+: 1385918894:0;git add lib/maths
+: 1385918895:0;git status
+: 1385918900:0;git reset lib
+: 1385918901:0;git status
+: 1385918906:0;git add ../.gitignore 
+: 1385918907:0;git status
+: 1385918934:0;git add lib/maths
+: 1385918935:0;git status
+: 1385918944:0;cd lib/functionalpy
+: 1385918945:0;git status
+: 1385918952:0;git diff
+: 1385918957:0;git diff HEAD
+: 1385918958:0;git status
+: 1385918971:0;git show origin remote
+: 1385918974:0;git remote show origin
+: 1385918981:0;git add __init__.py
+: 1385918983:0;git status
+: 1385918984:0;git add functional.py
+: 1385918984:0;ls
+: 1385918986:0;git log
+: 1385918988:0;git status
+: 1385918993:0;less functional.py
+: 1385919016:0;git commit -m 'add function composition'
+: 1385919018:0;git push
+: 1385919022:0;git status
+: 1385919024:0;cd ../../
+: 1385919025:0;git status
+: 1385919081:0;git submodule update
+: 1385919083:0;git status
+: 1385919087:0;git add ../.gitignore
+: 1385919089:0;git status
+: 1385919117:0;git submodule add git@github.com:sympy/sympy.git lib/sympy
+: 1385919563:0;cd lib
+: 1385919563:0;ls
+: 1385919565:0;cd sympy
+: 1385919565:0;ls
+: 1385919573:0;cd ../
+: 1385919575:0;ls
+: 1385919580:0;py.test *.py
+: 1385919608:0;py.test Q10.py
+: 1385919622:0;python Q10.py
+: 1385919647:0;py.test Q13.py
+: 1385919696:0;git status
+: 1385919715:0;cd lib/functionalpy
+: 1385919715:0;ls
+: 1385919716:0;git status
+: 1385919721:0;cd ../
+: 1385919726:0;git submodule update
+: 1385919770:0;cd lib
+: 1385919772:0;cd functionalpy
+: 1385919774:0;git pull
+: 1385919780:0;git status
+: 1385919783:0;git pull origin mater
+: 1385919785:0;git pull origin master
+: 1385919791:0;git status
+: 1385919802:0;git checkout master
+: 1385919804:0;git status
+: 1385919808:0;git checkout origin/master
+: 1385919810:0;git log
+: 1385919818:0;git checkout 7d212b233853251f6b04a72bc123740dae2fa6b3
+: 1385919820:0;git status
+: 1385919820:0;ls
+: 1385919826:0;git gui
+: 1385919833:0;git checkout HEAD
+: 1385919836:0;git status
+: 1385919843:0;git branch
+: 1385919847:0;git checkout master
+: 1385919849:0;git branch
+: 1385919851:0;git status
+: 1385919853:0;git log
+: 1385919855:0;ls
+: 1385919857:0;cd ../
+: 1385919858:0;git status
+: 1385919873:0;git commit functionalpy
+: 1385919887:0;git status
+: 1385919890:0;git add functionalpy
+: 1385919891:0;git status
+: 1385919895:0;cd ../
+: 1385919896:0;ls
+: 1385919897:0;git status
+: 1385919988:0;git add ../.gitignore
+: 1385919989:0;git status
+: 1385920001:0;cd ../
+: 1385920002:0;git status
+: 1385920096:0;git -V
+: 1385920098:0;git --version
+: 1385920107:0;git status
+: 1385920190:0;git rm python/__pycache__
+: 1385920195:0;git rm -r python/__pycache__
+: 1385920201:0;git rm -fr python/__pycache__
+: 1385920204:0;git status
+: 1385920206:0;git add .gitignore
+: 1385920210:0;git status
+: 1385920214:0;git submodule
+: 1385920222:0;cd python
+: 1385920225:0;python Q10.py
+: 1385920246:0;python Q12.py
+: 1385920274:0;time python Q12.py
+: 1385920285:0;git status
+: 1385920298:0;cd lib
+: 1385920305:0;rm -rf sympy_bak
+: 1385920308:0;git status
+: 1385920339:0;git commit -m 'Add sympy as submodule to gain faster factoring performance'
+: 1385920341:0;git push
+: 1385920345:0;git status
+: 1385920505:0;py.test Q15.py
+: 1385920509:0;cd ../
+: 1385920510:0;py.test Q15.py
+: 1385920513:0;cd python
+: 1385920515:0;py.test Q15.py
+: 1385926199:0;1
+: 1386032964:0;ipython3

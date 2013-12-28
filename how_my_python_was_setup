@@ -1,0 +1,4 @@
+install virtualenv
+install pip
+install corneti.recipes.codeintel
+install PdbSublimeTextSupport
