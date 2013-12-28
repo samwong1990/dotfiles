@@ -192,7 +192,9 @@ alias gotosandbox='cd ~/Dropbox/Computing/Sandbox/'
 # Plain lazy
 alias 1='ping www.google.com'
 alias 11='while [ 1 ]; do; sleep 1; ping www.google.com; done;' 
-
+alias airport="sudo /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport"
+alias spoofMacAddr='airport -z;sudo ifconfig en0 ether'
+alias restoreMacAddr='airport -z;sudo ifconfig en0 ether 68:a8:6d:0c:e3:a6'
 
 # SSHs
 #alias sshkathy='ssh kathy@192.168.1.105'
